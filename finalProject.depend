@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578817990 source:c:\users\emili\desktop\finalproject\finalproject\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	<vector>
+
